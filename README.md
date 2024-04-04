@@ -1,9 +1,11 @@
-Pandla Kalyan
+
+
 🌟 Core Competencies:
 
 Software Development and Testing: Proficient in SDLC, STLC, and DLC.
 Test Tools Knowledge: API Testing (SOAP, REST, Postman), Performance Testing (LoadRunner, Apache JMeter), Test Management (Jira, Zephyr), Automation Testing (Selenium IDE, Selenium webdriver), Unit/Integration Testing (JUnit, TestNG), Continuous Integration/Build (Jenkins, Git), Network Analysis (Charles Proxy, Wireshark, Fiddler), Browser Developer Tools, Legacy Tools (IBM Rational ClearQuest, UFT).
 Languages Knowledge: C, C++,Java, JavaScript, Python, XML, HTML.
+
 🚀 Synopsis:
 
 Solid understanding of SDLC, STLC, and DLC.
@@ -17,6 +19,7 @@ Knowledge of mobile testing frameworks and tools.
 Strong analytical and problem-solving skills.
 Excellent communication and collaboration skills.
 Detail-oriented with a commitment to delivering high-quality software products.
+
 🎓 Certifications:
 
 Google Certified Digital Marketer.
